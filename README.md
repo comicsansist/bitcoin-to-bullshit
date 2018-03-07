@@ -1,2 +1,1 @@
-# bitcoin-to-bullshit
-Chrome extension that replaces "bitcoin" with "bullshit".
+This Chrome extension replaces "bitcoin" with "bullshit". 
