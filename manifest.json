@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Bitcoin to Bullshit",
-    "description": "This Chrome extension replaces 'Bitcoin' with 'Bullshit'.",
+    "description": "Chrome extension that replaces 'bitcoin' with 'bullshit'.",
     "version": "1.0",
     "content_scripts": [
         {
